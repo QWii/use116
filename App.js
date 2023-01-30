@@ -42,7 +42,7 @@ function MyTabs() {
         }}
       />
       <Tab.Screen
-        name="Test11"
+        name="Test12221"
         component={Test1Screen}
         options={{
           tabBarLabel: 'Test1',
